@@ -1,7 +1,7 @@
 <?php
 
 class Auteur {
-    // on déclare nos attributs pour caractériser un livre lambda
+    // on déclare nos attributs pour caractériser un auteur lambda
     private string $_nom;
     private string $_prenom;
     private array $_livres; // la collection de livres écrites par l'auteur sous forme d'un tableau rempli d'objets 'livres'
